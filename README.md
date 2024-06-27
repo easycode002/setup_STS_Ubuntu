@@ -68,3 +68,5 @@ Terminal=false
 Icon=/opt/sts/sts-4.23.1.RELEASE/icon.xpm
 Categories=Development;IDE;Java
 ```
+
+## After config we can search application on Ubuntu app
